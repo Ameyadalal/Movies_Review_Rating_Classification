@@ -5,4 +5,4 @@ Python was used as the programming language. The data was extracted from TMDB (T
 
 Visualization was done for discovering the patterns and trends present within the data. 
 
-All the analysis of the data trends are included in the file while full project report is also available.
+All the analysis of the data trends are included in the file while full project report is also available in DAP_Sentiment_Analysis_Report.pdf.
